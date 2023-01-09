@@ -1,0 +1,20 @@
+.containerInfo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.info{
+    width: 200px;
+    height: 200px;
+    margin: .4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    background-color: rgba(0, 10, 42, 0.662);
+    border-radius: 2rem;
+}
+.iconCard{
+    font-size: 40px;
+}

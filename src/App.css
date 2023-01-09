@@ -1,38 +1,34 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;700&display=swap');
+*{
+  font-family: Inconsolata;
+}
+
+.App{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.fondo{
+  background-color: #2b2e3d;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.searchButton{
+  position: relative;
+  top: -56px;
+  left: 289px;
+  height: 35px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.container-Card{
+  color: aliceblue;
 }
 
-.App-link {
-  color: #61dafb;
+
+.w-100{
+  background-color: #1d2125;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.react-autosuggest__input{
+  margin-top: 1rem;
 }
+
