@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/AppClima/static/css/main.d10cb73a.css",
+    "main.css": "/AppClima/static/css/main.81ace5ed.css",
     "main.js": "/AppClima/static/js/main.0cc30ebb.js",
     "static/media/Rascacielos.jpg": "/AppClima/static/media/Rascacielos.a99e20878ab04afc890f.jpg",
     "index.html": "/AppClima/index.html",
-    "main.d10cb73a.css.map": "/AppClima/static/css/main.d10cb73a.css.map",
+    "main.81ace5ed.css.map": "/AppClima/static/css/main.81ace5ed.css.map",
     "main.0cc30ebb.js.map": "/AppClima/static/js/main.0cc30ebb.js.map"
   },
   "entrypoints": [
-    "static/css/main.d10cb73a.css",
+    "static/css/main.81ace5ed.css",
     "static/js/main.0cc30ebb.js"
   ]
 }
